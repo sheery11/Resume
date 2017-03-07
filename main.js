@@ -1,5 +1,5 @@
-var code = `body{background:red;}p{color:green;}`
-   
+   var code = `body{background:blue;}p{color:white;}`
+
 n = 0;
 setInterval(function(){
   content.innerHTML = code.substring(0,n);
