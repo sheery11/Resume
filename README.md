@@ -2,4 +2,4 @@
 
 
 #预览
-    ![img](Resume/test.gif)
+    ![img](https://github.com/sheery11/Resume/blob/master/test.gif)
