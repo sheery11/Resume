@@ -1,4 +1,4 @@
- var code = `body{background:blue;}p{color:white;}`
+ var code = `body{background:blue;font-family:sans-serif;}p{color:white;font-size:25px;}`
 
 n = 0;
 setInterval(function(){
